@@ -4,7 +4,8 @@ This research addresses the critical challenge of predicting software bug severi
 
 <br>
 
-Manual on how to run the Models: <br>
-Step 1: Download and Extract the Zip File <br>
-Step 2: Extract the promise19_dataset.zip in the same folder as Latest2.ipynb <br>
-Step 3: Run the Ipynb Code from top to bottom. <br>
+Manual on how to run the Models:<br>
+Step 1: Download and Extract the Zip File<br>
+Step 2: Extract the promise19_dataset.zip in the same folder as EDA and ML Models.ipynb and Roberta DL Model.ipynb<br>
+Step 3: Run the Ipynb Code from top to bottom.<br>
+
